@@ -3,7 +3,7 @@ title Cardio Vascular
 echo Hey there. I am Cardio Vascular
 echo.
 ping localhost -n 2 >nul
-echo You must be lei
+echo You must be elaine
 echo.
 ping localhost -n 2 >nul
 echo i have come here to deliver a message for you.
