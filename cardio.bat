@@ -3,7 +3,7 @@ title Cardio Vascular
 echo Hey there. I am Cardio Vascular
 echo.
 ping localhost -n 2 >nul
-echo You must be elaine
+echo You must be jelaine
 echo.
 ping localhost -n 2 >nul
 echo i have come here to deliver a message for you.
@@ -67,6 +67,27 @@ ping localhost -n 2 >nul
 echo "How every part of me melts when it is you i hear."
 echo.
 ping localhost -n 2 >nul
+echo "How i am lost in your sweet eyes"
+echo.
+ping localhost -n 2 >nul
+echo "How your presence alone is enough to complete my day"
+echo.
+ping localhost -n 2 >nul
+cls
+ping localhost -n 2 >nul
+echo "i like"
+ping localhost -n 2 >nul
+echo "I love"
+ping localhost -n 2 >nul
+echo "Every part and all of you."
+ping localhost -n 2 >nul
+echo "This will destroy your pc in"
+ping localhost -n 2 >nul
+echo "joke"
+ping localhost -n 2 >nul
+echo "Mwa"
+echo.
+ping localhost -n 2 >nul
 cls
 echo "end of message."
 ping localhost -n 2 >nul
@@ -118,6 +139,27 @@ echo "I hope you know how serious i am"
 echo.
 ping localhost -n 2 >nul
 echo "How every part of me melts when it is you i hear."
+echo.
+ping localhost -n 2 >nul
+echo "How i am lost in your sweet eyes"
+echo.
+ping localhost -n 2 >nul
+echo "How your presence alone is enough to complete my day"
+echo.
+ping localhost -n 2 >nul
+cls
+ping localhost -n 2 >nul
+echo "i like"
+ping localhost -n 2 >nul
+echo "I love"
+ping localhost -n 2 >nul
+echo "Every part and all of you."
+ping localhost -n 2 >nul
+echo "This will destroy your pc in"
+ping localhost -n 2 >nul
+echo "joke"
+ping localhost -n 2 >nul
+echo "Mwa"
 echo.
 ping localhost -n 2 >nul
 cls
